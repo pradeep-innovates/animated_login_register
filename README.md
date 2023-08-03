@@ -25,5 +25,9 @@ This project is a login and registration system designed with a clean and modern
 2. Open the index.html file in your web browser.
 3. Explore the login and registration forms, toggle password visibility, and test the user interface
 
+## License
+
+This project is licensed under the [MIT License](LICENSE) - see the [LICENSE](LICENSE) file for details.
+
 
 ©pradeep-innovates (Pradeep V.)

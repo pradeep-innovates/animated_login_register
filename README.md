@@ -1,6 +1,6 @@
-# Login & Register System - Codex
+# Animated Login & Register System - CodeX
 
-A simple and stylish login and registration system implemented in HTML and CSS. This project provides a user-friendly interface for users to log in or register on your website.
+A simple and stylish login and registration forms implemented in HTML and CSS. This project provides a user-friendly interface for users to login or register on your website.
 
 ## Description
 
@@ -8,10 +8,11 @@ This project is a login and registration system designed with a clean and modern
 
 ## Features
 
-- Interactive forms with input validation.
-- Password visibility toggle for enhanced user experience.
-- Stylish switch for easy navigation between login and registration.
-- Remember me option to save user preferences.
+- Fluid animation for switching between login and register forms
+- User-friendly login and registration interfaces
+- Password visibility toggle for enhanced user experience
+- Stylish switch for effortless navigation
+- Remember me option to save user preferences
 
 ## Screenshots
 
